@@ -77,7 +77,7 @@
 
 
 <a href = "https://www.instagram.com/sankalp_.10/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/tigerishan426"><img src="https://icons8.com/icon/OUPsEPLKIebZ/hackerrank">Hackerrank icon by Icons8</a>
+<a href = "https://www.hackerrank.com/tigerishan426"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA/wD/AP+gvaeTAAAC5ElEQVRIie1WXUsUURh+zrgzOzvj7jHQQvGL1OoHRBQIfkdQ5ibeBIW11J23RUsElkVFGH0IFZirXVa6akrQCqUM1C/ILtQK0y5Mtil0d2fM6WLWdWbb2R1F6Mbnanh53/Oc53nnvOcA28gAYjOvopg53+xsrHJAw+A7tXtAmf62ujUEhbuYC63OU0c5R9Z6cHUVw+Nq++Po57kMNOkI8nYQv48/fYzjWESi2vOQ2jusEIKzTVxLPetyEkVF3yvlVk/0x0/NjhoDLcHJI9zMqEeWaHiCPrki5OcyxoSCPOb+RdfiOJUl+vW158xxjtg1GygvYka7RFmiskRf3BErihmrzL2lTH9nPHPkgVhWaJm5jpZ69vuYR5boxwF3YxVrZ0NNNexk0C1LdD7kOVGbtqT2gCM8QWWJPm0XRNe6Zr+P9/v4NIXZAglcFXQ/q/c7LPMeXXbJEr3eZlrL7+N1E9JzALjRxssS7fK7jEGTa+VFWQBC71eMwZs90aQPK4Q+rACoKM4yBk0EuTkEwJf5zCdI15QU1Av1RVITCC4C4NfSBn/qNfxe0gAIZiPNBE4AiCmbWx8xFQCMfwcAU8ddPAEQU1Ir+NeTZAJFV2Bt0ZZAM2/PpCAS1dhs4uTIcjSFCFopJ75TqnFyBEAkZqo1KViO6Xkb3PMaeA4AliJpCCIaAI9of26Z4BYJgGXzaTERLIQ1AKUFm2xMST4DYCFsOkamtaZm/wA4fCh5mNBK2diAxMxIGh4NBx0Apmatz2li2PVeE9xpjUoaf55s8qzDxrAD0FzHzoc8skQng25vja1x3VzHfhp0yxKde+NpslNSXsSMPoxfI/2d4p4Sy5bsK2WCd+OZw/fE3XYunAS8Nez0SPzK7OsQ9AYmULDT7pWZzujcHHLJx7c2chyLSEx7OaYGhhQC+LxcSwPnZKGoCAwptwPRRdlyPv7XZ4sRZYXMuWbOW81qwOBbtTuozNh7eG0jI/4C8zIVZZtWLJgAAAAASUVORK5CYII="></a>
 </a>
 
 </p>
