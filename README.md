@@ -77,7 +77,7 @@
 
 
 <a href = "https://www.instagram.com/sankalp_.10/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/tigerishan426"><img src="https://icons8.com/icon/OUPsEPLKIebZ/hackerrank>Hackerrank icon by Icons8"/></a>
+<a href = "https://www.hackerrank.com/tigerishan426"><img src="https://icons8.com/icon/OUPsEPLKIebZ/hackerrank">Hackerrank icon by Icons8/></a>
 </a>
 
 </p>
