@@ -14,11 +14,11 @@
 
 - 📫 How to reach me **sankalp.pandey1011@gmail.com**. 
 
-- ⚡ Fun fact **DIE HARD FAN OF FC BARCELONA.**
+- ⚡ **DIE HARD FAN OF FC BARCELONA.**
 
--  ✨ **MACHIENE LEARNING ENTHUSIAST**.
+- ✨ **MACHIENE LEARNING ENTHUSIAST.**
 
--  ✨ **IOS APP DEVELOPER**.
+- ✨ **IOS APP DEVELOPER**.
 
 ## 🚀 Languages and Tools:
 
