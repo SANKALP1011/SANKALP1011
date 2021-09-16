@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sankalp.pandey1011@gmail.com**. 
 
-- ⚡ **DIE HARD FAN OF FC BARCELONA.**
+- ⚡ **FC BARCELONA.**
 
 - ✨ **MACHIENE LEARNING ENTHUSIAST.**
 
