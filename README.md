@@ -1,5 +1,3 @@
-
-[![Header](https://raw.githubusercontent.com/SANKALP1011/SANKALP1011/master/readme_header.png "Header")](https://martinheinz.dev/)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
