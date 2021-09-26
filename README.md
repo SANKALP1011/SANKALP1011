@@ -1,5 +1,5 @@
 <center>
-<a href="#"><img width="80%" height="auto" src="https://media0.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=ecf05e479atamrgv22zrf8ijdo1letiwgoydq5tkyd372m3b&rid=giphy.gif&ct=g" height="80px"/></a>
+<a href="#"><img width="80%" height="auto" src="https://media0.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=ecf05e479atamrgv22zrf8ijdo1letiwgoydq5tkyd372m3b&rid=giphy.gif&ct=g" height="80px" margin="20"/></a>
 </center>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sankalp</h1>
