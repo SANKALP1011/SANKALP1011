@@ -1,6 +1,6 @@
-<center>
-<a  align="centee" href="#"><img width="40%" height="auto" src="https://media0.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=ecf05e479atamrgv22zrf8ijdo1letiwgoydq5tkyd372m3b&rid=giphy.gif&ct=g" height="80px" /></a>
-</center>
+<p align="center">
+<a  href="#"><img width="40%" height="auto" src="https://media0.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=ecf05e479atamrgv22zrf8ijdo1letiwgoydq5tkyd372m3b&rid=giphy.gif&ct=g" height="80px" /></a>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sankalp</h1>
 <h3 align="center">I'm a passionate  Developer from India.</h3>
