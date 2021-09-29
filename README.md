@@ -22,6 +22,8 @@
 
 - ✨ **IOS APP DEVELOPER**.
 
+- ✨ **Currently , learning the working and development of websites.**
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
