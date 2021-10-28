@@ -10,17 +10,13 @@
 
 - 🔭 I’m currently studying in Vit , Vellore.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**.
-
 - 👨‍💻 All of my projects will be available on **GITHUB**.
 
 - 📫 How to reach me **sankalp.pandey1011@gmail.com**. 
 
-- ⚡ **FC BARCELONA.**
+- ✨ **INTERESTED IN CLOUD COMPUTING.**
 
-- ✨ **INTERESTED IN MACHIENE LEARNING.**
-
-- ✨ **IOS APP DEVELOPER**.
+- ✨ *APP/WEB DEVELOPER**.
 
 - ✨ **Currently , learning the working and development of websites.**
 
