@@ -16,9 +16,11 @@
 
 - ✨ **INTERESTED IN CLOUD COMPUTING.**
 
-- ✨ *APP/WEB DEVELOPER**.
+- ✨ **APP/WEB DEVELOPER**.
 
 - ✨ **Currently , learning the working and development of websites.**
+
+- **ONE LINE OF CODE AT A TIME.**
 
 ## 🚀 Languages and Tools:
 
