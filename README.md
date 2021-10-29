@@ -20,7 +20,9 @@
 
 - ✨ **Currently , learning the working and development of websites.**
 
-- **ONE LINE OF CODE AT A TIME.**
+- **ONE LINE OF CODE AT A TIME.✨**
+
+> Some of my test repository are private right now.
 
 ## 🚀 Languages and Tools:
 
