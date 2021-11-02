@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects will be available on **GITHUB**.
 
-- 📫 How to reach me **sankalp.pandey1011@gmail.com**. 
+- 📫Reach me at **sankalp.pandey1011@gmail.com**. 
 
 - ✨ **INTERESTED IN CLOUD COMPUTING.**
 
