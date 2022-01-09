@@ -9,15 +9,17 @@
 ## About Me
 
 >#include <iostream.h>\
->using namespace std;/
->void AboutMe(){/
->char name;
->cout<<"What is your name?"<<" "<<endl;
->cin>>Sankalp;
->
-
-
-
+>using namespace std;\
+>void AboutMe(){\
+>char name;\
+>char answer
+>cout<<"What is your name?"<<" "<<endl;\
+>cin>>name;\
+>cout<<"I am a full stack web developer who also knows how to develop apps using swift"<<" "<<endl;\
+>cout<<"I am currently a second year student pursing bachelors and masters in technology in computer science."<<" "<<endl;\
+>cout<<"I am have adequate information in order to develop application with it's own backend , database and frontend."<<" "<<endl;\
+>cout<<"Improving my dsa day by day."<<" "<<endl;
+>cout<<"I have a keen interest in learning about cloud computing.<<" "<<endl;
 
 ## 🚀 Languages and Tools:
 
