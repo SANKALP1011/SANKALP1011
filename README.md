@@ -6,23 +6,18 @@
 <h3 align="center">I'm a passionate  Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🔭 I’m currently studying in Vit , Vellore.
+>#include <iostream.h>
+>using namespace std;
+>void AboutMe(){
+>char name;
+>cout<<"What is your name?"<<" "<<endl;
+>cin>>Sankalp;
+>
 
-- 👨‍💻 All of my projects will be available on **GITHUB**.
 
-- 📫Reach me at **sankalp.pandey1011@gmail.com**. 
 
-- ✨ **INTERESTED IN CLOUD COMPUTING.**
-
-- ✨ **APP/WEB DEVELOPER**.
-
-- ✨ **Currently , learning the working and development of websites.**
-
-- **ONE LINE OF CODE AT A TIME.✨**
-
-> Some of my test repository are private right now.
 
 ## 🚀 Languages and Tools:
 
