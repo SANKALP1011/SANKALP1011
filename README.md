@@ -8,11 +8,9 @@
 
 ## About Me
 
->#include <iostream.h>
-
->using namespace std;
-
->void AboutMe(){
+>#include <iostream.h>/
+>using namespace std;/
+>void AboutMe(){/
 >char name;
 >cout<<"What is your name?"<<" "<<endl;
 >cin>>Sankalp;
