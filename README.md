@@ -12,7 +12,7 @@
 > - I am full stack developer.✨\
 > - I also know develops app using swift.✨\
 > - I have a keen interest in learning about cloud computing.✨\
-> - Backend||Frontend||Database , I can develop with all three.✨\
+> - Backend||Frontend||Database , I can work with with all.✨\
 > - Reach me out at **sankalp.pandey1011@gmail.com**.
 
 ## 🚀 Languages and Tools:
