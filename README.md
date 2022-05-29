@@ -8,7 +8,7 @@
 
 
 ## About Me
-- Second year computer science student from Vellore Insititute of technology , Vellore.
+- Third year computer science student from Vellore Insititute of technology , Vellore.
  
 > - I am full stack developer.✨
 > - I also know develops app using swift.✨
