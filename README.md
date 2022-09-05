@@ -4,17 +4,18 @@
 
 <h1 align="center">Hi,I'm Sankalp</h1>
 <h3 align="center">Full stack developer based out of India.</h3>
-<h3 align="center">https://portfolio-site-sankalp1011.vercel.app</h3>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-site-sankalp1011.vercel.app)
 
 
 ## [![AB](https://img.shields.io/badge/About-Me-ff69b4)](#)
-- Third year computer science student from Vellore Insititute of technology , Vellore.
- 
-> - I am full stack developer.✨
-> - I also know develops app using swift.✨
-> - I have a keen interest in learning about cloud computing.✨
-> - Backend||Frontend||Database , I can work with with all.✨
-> - Reach me out at **sankalp.pandey1011@gmail.com**.
+   > [![th](https://img.shields.io/badge/Third%20-YearStudent-red)](#)
+   > [![vit](https://img.shields.io/badge/Vellore%20-Institute%20of%20technology%20-ff69b4)](#)
+   > [![cs](https://img.shields.io/badge/Computer-Science%20and%20Engineering%20-blueviolet)](#)
+   > [![fs](https://img.shields.io/badge/Full%20Stack-Developer%20-ff69b4)](#)
+   > [![back](https://img.shields.io/badge/Backend-Developer-success)](#)
+   > [![front](https://img.shields.io/badge/Frontend-Developer%20-blueviolet)](#)
+   > [![database](https://img.shields.io/badge/Database-Engineer-success)](#)
 
 ## [![OS](https://img.shields.io/badge/Operating-System-blueviolet)](#)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -64,6 +65,8 @@
   [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#)
   [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+  [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 
 
 
@@ -99,9 +102,10 @@
 <p align="left">
 
 
-
-<a href = "https://www.instagram.com/sankalp_.10/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/tigerishan426"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-site-sankalp1011.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sankalp_.10/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tigerishan426)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-pandey-688a28223)
 </a>
 
 </p>
