@@ -7,7 +7,7 @@
 <h3 align="center">https://portfolio-site-sankalp1011.vercel.app</h3>
 
 
-## About Me
+## [![AB](https://img.shields.io/badge/About-Me-ff69b4)](#)
 - Third year computer science student from Vellore Insititute of technology , Vellore.
  
 > - I am full stack developer.✨
@@ -16,7 +16,11 @@
 > - Backend||Frontend||Database , I can work with with all.✨
 > - Reach me out at **sankalp.pandey1011@gmail.com**.
 
-## 🚀 Languages and Tools:
+## [![OS](https://img.shields.io/badge/Operating-System-blueviolet)](#)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+## [![Language](https://img.shields.io/badge/Languages-Tools-orange)](#)
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
@@ -56,6 +60,10 @@
   [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](#)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
   [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+  [![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+  [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#)
+  [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)
+  [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 
 
@@ -70,7 +78,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## [![GS](https://img.shields.io/badge/Github-Stats-blue)](#)
 
   <br/>
     <a href="https://github.com/SANKALP1011/github-readme-stats"><img alt="SANKALP1011 Github Stats" src="https://github-readme-stats.vercel.app/api?username=SANKALP1011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -87,7 +95,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## [![Connect](https://img.shields.io/badge/Connect-with%20me-ff69b4)](#)
 <p align="left">
 
 
@@ -98,7 +106,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## [![vs](https://img.shields.io/badge/Views-Followers-blueviolet)](#)
 <a href="https://github.com/SANKALP1011/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SANKALP1011">
 </a>
