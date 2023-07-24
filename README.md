@@ -9,7 +9,7 @@
 
 
 ## [![AB](https://img.shields.io/badge/About-Me-ff69b4)](#)
-   > [![th](https://img.shields.io/badge/Third%20-YearStudent-red)](#)
+   > [![th](https://img.shields.io/badge/Fourth%20-YearStudent-red)](#)
    > [![vit](https://img.shields.io/badge/Vellore%20-Institute%20of%20technology%20-ff69b4)](#)
    > [![cs](https://img.shields.io/badge/Computer-Science%20and%20Engineering%20-blueviolet)](#)
    > [![fs](https://img.shields.io/badge/Full%20Stack-Developer%20-ff69b4)](#)
